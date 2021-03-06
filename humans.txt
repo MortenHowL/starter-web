@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+   ole olsen  olly@weir.no
     <name> -- <role> -- <twitter>
 
 # THANKS
