@@ -26,4 +26,4 @@ more changes again
 adding to a staged file
 
 ###copyright
-tailban 2021
+tailban 2021. all rights reserved
